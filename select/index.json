@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "純・アモーレ・愛 ～ひびき & 珠璃 ver.～",
+  "base_artist": "紫京院ひびき(cv.斎賀みつき)、みほ",
+  "createdAt": "2025-12-17T07:16:58.376334Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "純・アモーレ・愛 ～ひびき & 珠璃 ver.～",
+      "artist": "紫京院ひびき(CV.斎賀みつき)、みほ",
+      "has_synced": false,
+      "path": "select/pl_01_純・アモーレ・愛_~ひびき_&_珠璃_ver.~_紫京院ひびき(CV.斎賀みつき)、みほ.txt"
+    }
+  ]
+}
